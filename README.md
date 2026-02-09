@@ -1,5 +1,5 @@
 # Introduction
-
+My main goal
 # Hopes & Fears Study (Streamlit)
 
 A multi-step Streamlit survey prototype (Pages 1–4) that collects participant inputs and appends responses to a CSV file.
@@ -19,3 +19,17 @@ A multi-step Streamlit survey prototype (Pages 1–4) that collects participant 
 ```bash
 python3 -m venv .venv
 source .venv/bin/activate
+
+## Data Output
+
+Responses are saved locally as:
+
+Downloads/hopes_fears_study_responses.csv
+
+Each row contains:
+- Prolific ID
+- Occupation
+- AI description
+- Fear/Hope ratings
+- Text responses
+- Tasks viewed
