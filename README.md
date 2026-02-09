@@ -3,7 +3,7 @@
 
 This project was developed while taking a break of studying to finals, to support ongoing research on how people perceive and interact with AI agents in work contexts.
 
-As AI systems become increasingly integrated into everyday decision-making and professional environments, understanding human expectations, concerns, and emotional responses is essential for designing responsible and human-centered AI.
+As AI systems become increasingly integrated into everyday decision making and professional environments, understanding human expectations, concerns, and emotional responses is essential for designing responsible and human-centered AI. Because building tech and social should not be separated.
 
 Through this work, I aim to contribute to meaningful research that helps ensure technological progress aligns with societal values and supports positive impact. Where can I help?
 
@@ -29,7 +29,7 @@ The application collects responses and stores them in a CSV file for analysis.
 - Saves results by appending one row per participant to:
   `~/Downloads/hopes_fears_study_responses.csv` (local runs)
 
-## My process thinking
+## My thinking process 
 <img width="1187" height="589" alt="image" src="https://github.com/user-attachments/assets/34cb8af1-5485-473c-8ac3-6da42174fad2" />
 <img width="1187" height="589" alt="image" src="https://github.com/user-attachments/assets/34cb8af1-5485-473c-8ac3-6da42174fad2" />
 
