@@ -1,6 +1,11 @@
 # Introduction
 ## Motivation
-Help contribuiting to the mainful research my professor is doing to leave the world better than i found it, this world has given so much, deserves so much better, where can i help?
+
+This project was developed while taking a break of studying to finals, to support ongoing research on how people perceive and interact with AI agents in work contexts.
+
+As AI systems become increasingly integrated into everyday decision-making and professional environments, understanding human expectations, concerns, and emotional responses is essential for designing responsible and human-centered AI.
+
+Through this work, I aim to contribute to meaningful research that helps ensure technological progress aligns with societal values and supports positive impact. Where can I help?
 
 # Hopes & Fears Study (Streamlit)
 
